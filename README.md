@@ -2,6 +2,8 @@
 
 ### ABOUT
 - This is a scalable distributed system that allows user to search for keywords to find the matching documents.
+- Use Apache Zookeeper for master/workers architecture and to communicate between nodes.
+- Use TF-IDF algo to rank score of the documents.
 
 ### Frontend
 - distributed-search-frontend
